@@ -1,1 +1,1 @@
-web: gunicorn The-Djano-Milkshake.wsgi
+web: gunicorn DjangoMilkshake.wsgi
