@@ -1,5 +1,5 @@
 # The-Django-Milkshake
-This is a project built for Codeshastra 5.0 Round 0
+This is a project built for our CLoud Computing Mini Project
 
 We use web scraping of google news and tweepy twitter api for sentiment analysis.
 
